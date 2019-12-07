@@ -1,2 +1,4 @@
 Today I am watching the Youtube Channel called "The_newboston"
-I dont really understand much. I am learning Git. This was my first commit and now, Im going good.
+I dont really understand much. I am learning Git. This was my first commit and now, Im 
+going good.
+yoyoyo
